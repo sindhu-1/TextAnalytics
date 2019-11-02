@@ -1,2 +1,2 @@
 # TextAnalytics
-A Recipe Search application using Topic modeling and Document retrial. 
+A Recipe Search using Topic modeling and Document retrial. 
